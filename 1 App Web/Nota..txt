@@ -1,1 +1,0 @@
-La parte de frontend solo esta hecha la parte del diseño pero no las funcionabilidad.
